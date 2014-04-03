@@ -1,0 +1,17 @@
+{
+  "name": "is-gen-fn",
+  "version": "0.0.1",
+  "description": "determine if a function is a generator function",
+  "main": "yes",
+  "scripts": {
+    "test": "make test"
+  },
+  "keywords": [
+    "generator",
+    "function",
+    "fn",
+    "gen"
+  ],
+  "author": "Matthew Mueller",
+  "license": "MIT"
+}
