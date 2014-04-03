@@ -1,6 +1,6 @@
 # is-gen-fn
 
-check if the function is a generator. pulled from [co](https://github.com/visionmedia/co).
+check if the value is a generator function. pulled from [co](https://github.com/visionmedia/co).
 
 ## Installation
 
